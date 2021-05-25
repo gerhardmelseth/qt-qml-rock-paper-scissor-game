@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ScoreBoard.qml</file>
+        <file>Badge.qml</file>
+        <file>RockPaperScissor.js</file>
+    </qresource>
+</RCC>
